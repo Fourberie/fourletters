@@ -9,4 +9,5 @@
 Пример:
 
 names = "Tror Gvigris Deriana Nori"
+
 fourletters(names) = 2
